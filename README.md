@@ -10,7 +10,7 @@ It’s a simple, mobile-friendly web app that helps users improve their AI promp
 - Hosted on **GitHub Pages**
 
 ### 🌐 Live Demo
-👉 [View Project](https://kameshwaran-vi-britannia.github.io/SmartChatPrompter/)
+👉 [View Project](https://kameshwaran-vi-britannia.github.io/HHH/)
 
 ### 🧠 Skills Used
 - Prompt Engineering
